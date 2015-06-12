@@ -1,0 +1,1278 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-13 00:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:50
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:51
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:52
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:53
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:54
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:55
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:135
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:176
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:247
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:269
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:273
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:306
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:32
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:46
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:55
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:63
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:71
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:72
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:94
+msgid "changeDocType"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx.cs:56
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\AssignDomain2.aspx:76
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:279
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:415
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:423
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:432
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:497
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx:79
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:279
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinyMCE3\TinyMCE.cs:577
+msgid "buttons"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:91
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:86
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\nodeType.ascx.cs:43
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:56
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:52
+msgid "none"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:173
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:197
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:198
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:207
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:95
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:119
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:120
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:129
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:139
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:144
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:148
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:152
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:167
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:169
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:131
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:132
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:137
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:142
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:143
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:149
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:151
+msgid "template"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:176
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:98
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:115
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\editstylesheet.aspx.cs:35
+msgid "properties"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:181
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:506
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Macros\editMacro.aspx.cs:308
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\editPackage.aspx.cs:405
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Python\editPython.aspx.cs:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\RelationTypes\EditRelationType.aspx.cs:197
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Xslt\editXslt.aspx.cs:52
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\EditMemberGroup.aspx.cs:87
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\EditDictionaryItem.aspx.cs:40
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\EditDictionaryItem.aspx.cs:42
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editLanguage.aspx.cs:85
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editLanguage.aspx.cs:86
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:102
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:120
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\editstylesheet.aspx.cs:40
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx.cs:58
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx.cs:59
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:222
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:223
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:35
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:36
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\PermissionEditor.aspx.cs:58
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\PermissionEditor.aspx.cs:59
+msgid "save"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:186
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:107
+msgid "edittemplate"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:187
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\importDocumenttype.aspx:30
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\members\EditMemberGroup.aspx:13
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\members\ViewMembers.aspx:12
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\plugins\tinymce3\InsertAnchor.aspx:25
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx:13
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:282
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:121
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:32
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\nodeType.ascx.cs:34
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\simple.ascx.cs:25
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertImage.aspx.cs:21
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:108
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:87
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\editstylesheet.aspx.cs:50
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:94
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:98
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:104
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:315
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:39
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\importDocumenttype.aspx:30
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\EditMemberGroup.aspx:13
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\ViewMembers.aspx:12
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\InsertAnchor.aspx:25
+msgid "name"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:188
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\importDocumenttype.aspx:35
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx:22
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:120
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:109
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:38
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\importDocumenttype.aspx:35
+msgid "alias"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\views\EditView.aspx.cs:189
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editTemplate.aspx.cs:110
+msgid "mastertemplate"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Macros\editMacro.aspx:132
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Macros\editMacro.aspx:135
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Macros\editMacro.aspx:138
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\AssignDomain2.aspx:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:118
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\cruds.aspx:22
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\editMacro.aspx:41
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\editMacro.aspx:68
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertMacro.aspx:87
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertMacro.aspx:99
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertMasterpageContent.aspx:29
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertMasterpagePlaceholder.aspx:33
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:80
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:208
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:213
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:224
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:233
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:239
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:248
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:262
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:267
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\moveOrCopy.aspx:88
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\moveOrCopy.aspx:89
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\notifications.aspx:15
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\publish.aspx:64
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\rollBack.aspx:95
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\sort.aspx:65
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:133
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\plugins\tinymce3\insertMacro.aspx:126
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\plugins\tinymce3\insertMacro.aspx:138
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\MemberModelMapper.cs:187
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\MemberModelMapper.cs:339
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\MemberModelMapper.cs:355
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\TabsAndPropertiesResolver.cs:234
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeControllerBase.cs:189
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:174
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:185
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:294
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentPicker.cs:55
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dashboard\LatestEdits.ascx.cs:38
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Macros\editMacro.aspx.cs:235
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:29
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:60
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:71
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMacro.aspx.cs:38
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMacro.aspx.cs:39
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx.cs:37
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:49
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:77
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\RegexWs.aspx.cs:23
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\RegexWs.aspx.cs:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:36
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:37
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:56
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:83
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx:78
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMacro.aspx:86
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMacro.aspx:98
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMasterpageContent.aspx:29
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMasterpagePlaceholder.aspx:31
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:80
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:208
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:213
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:224
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:233
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:239
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:248
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:262
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:267
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\notifications.aspx:15
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx:96
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertMacro.aspx:125
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertMacro.aspx:137
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\mediapicker\mediaChooser.cs:40
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\pagepicker\pagePicker.cs:45
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\TreePicker\SimpleContentPicker.cs:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\TreePicker\SimpleMediaPicker.cs:23
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\helpers\DeepLink.cs:34
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\helpers\DeepLink.cs:38
+msgid "general"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Packages\installedPackage.aspx:80
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Packages\installedPackage.aspx:98
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Packages\installedPackage.aspx:110
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Packages\installedPackage.aspx:153
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Packages\installer.aspx:70
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:603
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:604
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:605
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:606
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:607
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:608
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:609
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:610
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:611
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:613
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:614
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:616
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:617
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:618
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:620
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:622
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:627
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx:80
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx:98
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx:110
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx:151
+msgid "packager"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Packages\SubmitPackage.aspx:108
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Xslt\xsltChooseExtension.aspx:40
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Xslt\xsltInsertValueOf.aspx:60
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:116
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\create.aspx:58
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\emptyTrashcan.aspx:77
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\importDocumenttype.aspx:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\mediaPicker.aspx:93
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\sendToTranslation.aspx:33
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installer.aspx.cs:297
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\SubmitPackage.aspx:108
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Xslt\xsltChooseExtension.aspx:41
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Xslt\xsltInsertValueOf.aspx:59
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\importDocumenttype.aspx:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\mediaPicker.aspx:93
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\republish.aspx:23
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx:33
+msgid "or"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Packages\SubmitPackage.aspx:108
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\RelationTypes\NewRelationType.aspx:45
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Xslt\xsltChooseExtension.aspx:40
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\developer\Xslt\xsltInsertValueOf.aspx:60
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\create.aspx:59
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\emptyTrashcan.aspx:79
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\importDocumenttype.aspx:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\mediaPicker.aspx:95
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:116
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:174
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\republish.aspx:22
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\sendToTranslation.aspx:33
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\SubmitPackage.aspx:108
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Xslt\xsltChooseExtension.aspx:41
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Xslt\xsltInsertValueOf.aspx:59
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\importDocumenttype.aspx:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\mediaPicker.aspx:95
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\republish.aspx:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx:33
+msgid "cancel"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\AssignDomain.aspx:25
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\AssignDomain2.aspx:37
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\AssignDomain2.aspx:47
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\AssignDomain2.aspx:48
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\AssignDomain2.aspx:63
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\AssignDomain2.aspx:64
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:28
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:30
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:31
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:42
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:50
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:67
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:124
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:143
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:155
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx.cs:26
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx.cs:35
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx.cs:42
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx.cs:43
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx.cs:44
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx:38
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx:48
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx:49
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx:66
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain2.aspx:67
+msgid "assignDomain"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\AssignDomain.aspx:45
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\ChangeDocType.aspx:100
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\emptyTrashcan.aspx:60
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\emptyTrashcan.aspx:68
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\emptyTrashcan.aspx:69
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertMasterpageContent.aspx:20
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertMasterpagePlaceholder.aspx:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:78
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:87
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\insertTable.aspx:148
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\RegexWs.aspx:12
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\republish.aspx:18
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\republish.aspx:36
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\sort.aspx:37
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Trees\MenuItem.cs:193
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:140
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:64
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:65
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:101
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\RegexWs.aspx.cs:45
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:101
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMasterpageContent.aspx:20
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMasterpagePlaceholder.aspx:21
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:78
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:87
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertTable.aspx:148
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\RegexWs.aspx:12
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\republish.aspx:18
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\republish.aspx:35
+msgid "defaultdialogs"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\emptyTrashcan.aspx:64
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\Tree\CustomTreeControl.cs:104
+msgid "deleting"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\importDocumenttype.aspx:15
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\importDocumenttype.aspx:15
+msgid "importDocumentTypeHelp"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\moveOrCopy.aspx:73
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:565
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:581
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:588
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\MediaController.cs:491
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\MediaController.cs:507
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\MediaController.cs:514
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:39
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:103
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:108
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:237
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:251
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:260
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:294
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:307
+msgid "moveOrCopy"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:93
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:94
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:102
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:103
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:107
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:124
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:140
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:74
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:76
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:77
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:260
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:282
+msgid "publicAccess"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:154
+msgid "paLoginPageHelp"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\protectPage.aspx:165
+msgid "paErrorPageHelp"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\publish.aspx:41
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\publish.aspx:47
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\publish.aspx:54
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\publish.aspx:74
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:371
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:382
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:607
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:608
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:614
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:619
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:620
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:633
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:634
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:32
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:33
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:34
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:35
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:65
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\editPackage.aspx.cs:399
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:43
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:72
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:98
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:113
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:117
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\BulkPublishController.cs:62
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\BulkPublishController.cs:83
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\BulkPublishController.cs:85
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\BulkPublishController.cs:92
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\BulkPublishController.cs:95
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\ProgressBar.cs:13
+msgid "publish"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\publish.aspx:67
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:536
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\ContentModelMapper.cs:147
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\ContentModelMapper.cs:154
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\ContentModelMapper.cs:172
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\MemberModelMapper.cs:215
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\TabsAndPropertiesResolver.cs:74
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\TabsAndPropertiesResolver.cs:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\TabsAndPropertiesResolver.cs:82
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\TabsAndPropertiesResolver.cs:83
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\TabsAndPropertiesResolver.cs:90
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\TabsAndPropertiesResolver.cs:91
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\TabsAndPropertiesResolver.cs:98
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\TabsAndPropertiesResolver.cs:157
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Routing\UrlProviderExtensions.cs:29
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Routing\UrlProviderExtensions.cs:47
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Routing\UrlProviderExtensions.cs:49
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:298
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:302
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:310
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\dualSelectBox.cs:63
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\dualSelectBox.cs:65
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\Tree\CustomTreeService.cs:104
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:73
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:37
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:116
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:121
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertLink.aspx.cs:27
+msgid "content"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\publish.aspx:90
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:294
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\moveOrCopy.aspx.cs:307
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\notifications.aspx.cs:97
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:260
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:282
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:43
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:98
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:113
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\publish.aspx.cs:117
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:159
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertMacro.aspx.cs:91
+msgid "closeThisWindow"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\SendPublish.aspx:5
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\SendPublish.aspx:5
+msgid "editContentSendToPublish"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\SendPublish.aspx:9
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\SendPublish.aspx:9
+msgid "editContentSendToPublishText"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\SendPublish.aspx:11
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\SendPublish.aspx:11
+msgid "closewindow"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\sort.aspx:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\sort.aspx:43
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sort.aspx.cs:35
+msgid "sort"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:48
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:54
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:58
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:66
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:69
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:77
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:79
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:81
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:88
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:90
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:93
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:102
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:108
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:113
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:117
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:122
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\umbracoField.aspx:124
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:36
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:37
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:38
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:39
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:41
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:42
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:43
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:69
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:72
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:73
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:74
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:84
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:85
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\umbracoField.aspx.cs:86
+msgid "templateEditor"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\viewAuditTrail.aspx:25
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\viewAuditTrail.aspx:25
+msgid "action"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\viewAuditTrail.aspx:35
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\CurrentUserController.cs:65
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\UserPermissions.cs:70
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\UserTypes.cs:58
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:101
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:186
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:187
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:188
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:190
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:191
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:195
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:196
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:200
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:201
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:205
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:228
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:316
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:317
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:318
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:321
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:322
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:323
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:324
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:327
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\PermissionEditor.aspx.cs:63
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\PermissionEditor.aspx.cs:64
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\viewAuditTrail.aspx:35
+msgid "user"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\viewAuditTrail.aspx:45
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:49
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\viewAuditTrail.aspx:45
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\DatePicker\DateTimePicker.cs:110
+msgid "date"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\dialogs\viewAuditTrail.aspx:55
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:35
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:67
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\viewAuditTrail.aspx:55
+msgid "comment"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\members\ViewMembers.aspx:12
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:189
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\ViewMembers.aspx:12
+msgid "email"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\members\ViewMembers.aspx:12
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\MemberModelMapper.cs:252
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:44
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:69
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\ViewMembers.aspx:12
+msgid "login"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\plugins\tinymce3\InsertAnchor.aspx:7
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\InsertAnchor.aspx:7
+msgid "insertAnchor"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\plugins\tinymce3\insertChar.aspx:8
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertChar.aspx:8
+msgid "insertCharacter"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx:17
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx:26
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\editstylesheet.aspx.cs:32
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\editstylesheet.aspx.cs:49
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx.cs:33
+msgid "stylesheet"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx:31
+msgid "styles"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx:41
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:128
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:154
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:161
+msgid "preview"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\translation\default.aspx:34
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web.UI\Umbraco\translation\default.aspx:36
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:32
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:33
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:34
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:36
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:77
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:101
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:48
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:51
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:52
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:58
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:59
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:64
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:65
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:69
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:138
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:143
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:154
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:165
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:52
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:57
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:62
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:72
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:74
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:77
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:78
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:82
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:87
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadTranslationTasks.cs:36
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadTranslationTasks.cs:90
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx:34
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx:36
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\businesslogic\translation\Translation.cs:60
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\businesslogic\translation\Translation.cs:62
+msgid "translation"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\NotificationServiceExtensions.cs:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:140
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:141
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:152
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:153
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:220
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:221
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:224
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:225
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:226
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:228
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:230
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:231
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:232
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:233
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:234
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:235
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:236
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:238
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:239
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:241
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeControllerBase.cs:237
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeControllerBase.cs:238
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\DataTypeTreeController.cs:79
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\DataTypeTreeController.cs:80
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\DataTypeTreeController.cs:89
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeController.cs:95
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeController.cs:110
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:127
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:207
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:212
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:217
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:222
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:227
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:232
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:237
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:242
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:247
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:252
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:262
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:267
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:272
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:277
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:287
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:292
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\LegacyTreeDataConverter.cs:297
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MediaTreeController.cs:110
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MediaTreeController.cs:111
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MediaTreeController.cs:112
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MediaTreeController.cs:127
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MediaTreeController.cs:128
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MediaTreeController.cs:129
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MediaTreeController.cs:130
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MediaTreeController.cs:131
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MemberTreeController.cs:158
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MemberTreeController.cs:170
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MemberTreeController.cs:175
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\cruds.aspx.cs:62
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\notifications.aspx.cs:59
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:123
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\Actions\Action.cs:123
+msgid "actions"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\NotificationServiceExtensions.cs:77
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\NotificationServiceExtensions.cs:79
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\NotificationServiceExtensions.cs:80
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\notifications.aspx.cs:29
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\notifications.aspx.cs:97
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\businesslogic\workflow\Notification.cs:86
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\businesslogic\workflow\Notification.cs:88
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\businesslogic\workflow\Notification.cs:89
+msgid "notifications"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:275
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:279
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:376
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:536
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:602
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:603
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\ContentController.cs:615
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\DataTypeController.cs:167
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\MediaController.cs:264
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Editors\MemberController.cs:345
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:63
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:69
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControl.cs:153
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControl.cs:164
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControl.cs:287
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControl.cs:414
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControl.cs:555
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\EditMemberGroup.aspx.cs:70
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\EditDictionaryItem.aspx.cs:95
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editLanguage.aspx.cs:76
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\property\EditStyleSheetProperty.aspx.cs:88
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:534
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:538
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:544
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\SaveFileController.cs:67
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\SaveFileController.cs:84
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\SaveFileController.cs:89
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\SaveFileController.cs:129
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\SaveFileController.cs:146
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\SaveFileController.cs:151
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\SaveFileController.cs:187
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\SaveFileController.cs:203
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\WebServices\SaveFileController.cs:208
+msgid "speechBubbles"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\MemberModelMapper.cs:195
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:59
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:70
+msgid "password"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Models\Mapping\SectionModelMapper.cs:16
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ApplicationTreeController.cs:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\ContentTreeController.cs:49
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\Trees\MediaTreeController.cs:42
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentPicker.cs:55
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\Tree\TreeControl.ascx.cs:394
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\create.aspx.cs:57
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:370
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\mediapicker\mediaChooser.cs:40
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\pagepicker\pagePicker.cs:45
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\TreePicker\SimpleContentPicker.cs:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\TreePicker\SimpleMediaPicker.cs:23
+msgid "sections"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\PropertyEditors\UploadFileTypeValidator.cs:29
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:645
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControl.cs:431
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\BrowseRepository.aspx.cs:31
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installer.aspx.cs:50
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\uploadfield\uploadField.cs:45
+msgid "errors"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\PropertyEditors\ValueListPreValueEditor.cs:48
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:275
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:278
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:281
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:284
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:287
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:294
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:302
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:306
+msgid "editdatatype"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\BasePageExtensions.cs:40
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControl.cs:431
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\create.aspx.cs:85
+msgid "error"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\delete.aspx.cs:29
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\delete.aspx.cs:30
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\delete.aspx.cs:32
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:102
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\ViewMembers.aspx.cs:69
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\KeyValuePrevalueEditor.cs:198
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\TreePicker\BaseTreePicker.cs:210
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\TreePicker\BaseTreePicker.cs:211
+msgid "delete"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\delete.aspx.cs:31
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\ViewMembers.aspx.cs:68
+msgid "confirmdelete"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\delete.aspx.cs:37
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\delete.aspx.cs:38
+msgid "deleted"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:34
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\GenericProperties\GenericProperty.ascx.cs:159
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\GenericProperties\GenericProperty.ascx.cs:162
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:84
+msgid "areyousure"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:41
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:48
+msgid "editContentPublishedHeader"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:48
+msgid "editContentPublishedText"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\actions\publish.aspx.cs:48
+msgid "view"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:283
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:573
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentControl.cs:610
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:55
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:59
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:60
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:61
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:62
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:63
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:64
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:65
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:228
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:106
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:110
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:114
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\XPathDropDownList\XPathDropDownListDataEditor.cs:161
+msgid "errorHandling"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:119
+msgid "newtab"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:122
+msgid "allowedchildnodetypes"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:123
+msgid "contenttypecompositions"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:124
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:126
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:127
+msgid "editcontenttype"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:125
+msgid "icon"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:1090
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:112
+msgid "settings"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:1144
+msgid "contentTypeDublicatePropertyType"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:1447
+msgid "contentTypeTabCreated"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\ContentTypeControlNew.ascx.cs:1486
+msgid "contentTypeTabDeleted"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\Images\ImageViewer.ascx.cs:101
+msgid "no"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\Images\ImageViewer.ascx.cs:101
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\Tree\CustomTreeService.cs:105
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertLink.aspx.cs:34
+msgid "media"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\controls\Images\UploadMediaImage.ascx.cs:94
+msgid "thumbnailimageclickfororiginal"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\content.ascx.cs:26
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\DLRScripting.ascx.cs:28
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\language.ascx.cs:21
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\media.ascx.cs:25
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\member.ascx.cs:29
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\nodeType.ascx.cs:33
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\script.ascx.cs:26
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\simple.ascx.cs:24
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\xslt.ascx.cs:28
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\create.aspx.cs:58
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\mediaPicker.aspx.cs:26
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertImage.aspx.cs:36
+msgid "create"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\language.ascx.cs:20
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\language.ascx.cs:25
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\mediaPicker.aspx.cs:22
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertImage.aspx.cs:32
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editLanguage.aspx.cs:55
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\EditNodeTypeNew.aspx.cs:127
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:273
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:274
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUser.aspx.cs:275
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\dropdownlist\dropdown.cs:75
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\macrocontainer\MacroEditor.cs:41
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\memberpicker\memberPicker.cs:65
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\userControlWrapper\usercontrolPrevalueEditor.cs:71
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\XPathDropDownList\XPathDropDownListDataEditor.cs:119
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\DatePicker\DateTimePicker.cs:110
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\TreePicker\BaseTreePicker.cs:227
+msgid "choose"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\language.ascx.cs:20
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editLanguage.aspx.cs:39
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editLanguage.aspx.cs:90
+msgid "language"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\nodeType.ascx.cs:35
+msgid "masterDocumentType"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\nodeType.ascx.cs:36
+msgid "createMatchingTemplate"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\script.ascx.cs:68
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\create\script.ascx.cs:69
+msgid "folder"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installedPackage.aspx.cs:602
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadDLRScripts.cs:20
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadPackager.cs:117
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadPackager.cs:167
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadPackager.cs:178
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadPackager.cs:187
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadScripts.cs:43
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadStylesheets.cs:42
+msgid "treeHeaders"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\developer\Packages\installer.aspx.cs:297
+msgid "viewPackageWebsite"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\AssignDomain.aspx.cs:99
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertMacro.aspx.cs:78
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertMacro.aspx.cs:79
+msgid "edit"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\create.aspx.cs:85
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\cruds.aspx.cs:165
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:41
+msgid "rights"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\cruds.aspx.cs:36
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\notifications.aspx.cs:28
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:159
+msgid "update"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\cruds.aspx.cs:165
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\notifications.aspx.cs:97
+msgid "ok"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\importDocumenttype.aspx.cs:42
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\importDocumenttype.aspx.cs:43
+msgid "import"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMasterpageContent.aspx.cs:22
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\insertMasterpagePlaceholder.aspx.cs:16
+msgid "placeHolderID"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\mediaPicker.aspx.cs:26
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertImage.aspx.cs:36
+msgid "new"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:71
+msgid "paLoginPage"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:72
+msgid "paErrorPage"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\protectPage.aspx.cs:160
+msgid "paRemoveProtection"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\republish.aspx.cs:61
+msgid "republish"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:40
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:42
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:119
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\rollBack.aspx.cs:159
+msgid "rollback"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:48
+msgid "defaultLanguageIs"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\dialogs\sendToTranslation.aspx.cs:52
+msgid "defaultLanguageIsNotAssigned"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\EditMemberGroup.aspx.cs:91
+msgid "membergroup"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\MemberSearch.ascx.cs:21
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadMembers.cs:251
+msgid "search"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\members\ViewMembers.aspx.cs:21
+msgid "member"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertImage.aspx.cs:20
+msgid "url"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertImage.aspx.cs:22
+msgid "dimensions"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertImage.aspx.cs:26
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:110
+msgid "height"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertImage.aspx.cs:27
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:106
+msgid "width"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertImage.aspx.cs:29
+msgid "insertimage"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertMacro.aspx.cs:57
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertMacro.aspx.cs:58
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\macrocontainer\Editor.cs:60
+msgid "insertMacro"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\plugins\tinymce3\insertMacro.aspx.cs:91
+msgid "macroDoesNotHaveProperties"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\EditDictionaryItem.aspx.cs:35
+msgid "editdictionary"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\EditDictionaryItem.aspx.cs:47
+msgid "dictionaryItem"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\editLanguage.aspx.cs:38
+msgid "editlanguage"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\EditNodeTypeNew.aspx.cs:52
+msgid "contentTypeSavedHeader"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:86
+msgid "editscript"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\scripts\editScript.aspx.cs:88
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\settings\stylesheet\editstylesheet.aspx.cs:51
+msgid "path"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:47
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:98
+msgid "nodeName"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\default.aspx.cs:68
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:80
+msgid "upload"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:70
+msgid "download"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:88
+msgid "close"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:95
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:99
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\translation\details.aspx.cs:105
+msgid "value"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\Trees\loadMemberGroups.cs:44
+msgid "memberRoles"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:30
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:38
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:39
+msgid "usertype"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.Web\umbraco.presentation\umbraco\users\EditUserType.aspx.cs:41
+msgid "default"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\DefaultPrevalueEditor.cs:185
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\KeyValuePrevalueEditor.cs:187
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\businesslogic\datatype\DefaultPreValueEditor.cs:269
+msgid "dataBaseDatatype"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\DefaultPrevalueEditor.cs:191
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.cms\businesslogic\datatype\DefaultPreValueEditor.cs:280
+msgid "prevalue"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\KeyValuePrevalueEditor.cs:203
+msgid "addPrevalue"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\macrocontainer\MacroEditor.cs:26
+msgid "macroContainerSettings"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\macrocontainer\MacroEditor.cs:51
+msgid "removeMacro"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:147
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:155
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:161
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:172
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:180
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:186
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:206
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:207
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:212
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:216
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\relatedlinks\RelatedLinksDataEditor.cs:221
+msgid "relatedlinks"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\tinymce\tinyMCEPreValueConfigurator.cs:114
+msgid "rteMaximumDefaultImgSize"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\uploadfield\uploadField.cs:318
+msgid "uploadClear"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.editorControls\yesno\yesNo.cs:50
+msgid "yes"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\DatePicker\DateTimePicker.cs:82
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\DatePicker\DateTimePicker.cs:111
+msgid "noDate"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\DatePicker\DateTimePicker.cs:86
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.controls\DatePicker\DateTimePicker.cs:112
+msgid "removeDate"
+msgstr ""
+
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.businesslogic\ui.cs:102
+#: D:\Code\github.com\janhebnes\Umbraco-CMS\Umbraco-CMS\src\Umbraco.businesslogic\ui.cs:103
+msgid "testing"
+msgstr ""
